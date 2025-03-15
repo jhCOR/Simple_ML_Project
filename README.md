@@ -33,6 +33,9 @@ Machine Learning 첫 프로젝트의 시작을 환영합니다!
 ## 🏗️ 베이스라인 설명서  
 🔗 [베이스라인 가이드](Docs/Baseline_explain.md)  
 
+## 공개 테스트 데이터 리더보드 및 채점 사이트
+🔗 [리더보드](https://script.google.com/macros/s/AKfycbxVA4ULkBQHf5q5ACxSGgueLDx7wHPMHG_jJO9h-HE3tNhmffY476QvNLYJllmClXCr/exec)
+
 ---
 
 ## 📢 **ML 프로젝트 발표 안내**  
