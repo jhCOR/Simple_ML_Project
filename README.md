@@ -1,9 +1,5 @@
 # 🚀 Welcome to the Show!  
 
-<p align="center">
-  <img src="asset/Gemini.jpeg" alt="DataScience Rocket" width="500"/>
-</p>
-
 안녕하세요, 패럿 여러분! 😊  
 Machine Learning 첫 프로젝트의 시작을 환영합니다!  
 
