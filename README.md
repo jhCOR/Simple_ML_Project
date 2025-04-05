@@ -32,7 +32,9 @@ Machine Learning 첫 프로젝트의 시작을 환영합니다!
 ## 공개 테스트 데이터 리더보드 및 채점 사이트
 🔗 [리더보드](https://script.google.com/macros/s/AKfycbxVA4ULkBQHf5q5ACxSGgueLDx7wHPMHG_jJO9h-HE3tNhmffY476QvNLYJllmClXCr/exec)
 
-공개 테스트 데이터 1000개를 위의 사이트에서 다운 받고 값을 추론한다음 업로드 해주시면 됩니다!
+공개 테스트 데이터 500개를 위의 사이트에서 다운 받고 값을 추론한다음 업로드 해주시면 됩니다!
+
+***추가(04.05)***: 제가 공개 데이터 셋을 잘못올려서 수정하였으니 새로 다운받아주시길 당부드립니다...😭
 ---
 
 ## 📢 **ML 프로젝트 발표 안내**  
